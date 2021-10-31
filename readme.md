@@ -2,7 +2,7 @@
 
 
 
-![./dockerize-django-svelte-app.png]
+![dockerize-django-svelte-app.png](./dockerize-django-svelte-app.png)
 
 
 Petite application pour référencer ses compétences, possibilités d'ajouter des projets, pour chaque techno.
