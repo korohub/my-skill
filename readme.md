@@ -7,7 +7,7 @@
 
 Petite application pour référencer ses compétences, possibilités d'ajouter des projets, pour chaque techno.
 
-[###DEMO](https://techprez.tk/)
+<a href="https://techprez.tk/" target="_blank">DEMO</a>
 
 ## Exemple
 
