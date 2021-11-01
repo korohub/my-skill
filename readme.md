@@ -9,7 +9,7 @@ Petite application pour référencer ses compétences, possibilités d'ajouter d
 
 <a href="https://techprez.tk/" target="_blank">DEMO</a>
 
-## Exemple
+## Screenshot
 
 ![2021-10-31 16_09_37-Svelte app.jpg](./img/2021-10-31_16_09_37-Svelte_app.jpg)
 
