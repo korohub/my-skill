@@ -12,9 +12,6 @@ Petite application pour référencer ses compétences, possibilités d'ajouter d
 ![2021-10-31 16_09_37-Svelte app.jpg](./2021-10-31_16_09_37-Svelte_app.jpg)
 
 
-
-
-
 ## Versions
 
 
@@ -25,3 +22,11 @@ Petite application pour référencer ses compétences, possibilités d'ajouter d
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
 * _**Moi**_
+
+## Todo 
+
+* Auth avec JWT
+* Mettre en place du responsive
+* Ecran de saisie des Skills
+* Ecran de saisie des projets
+* Migration de BDD Sqlite > postgres || mongodb (atlas)
